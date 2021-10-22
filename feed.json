@@ -1,11 +1,10 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "gachbong",
+    "title": "Cement tiles CTS",
     "description": "",
     "home_page_url": "https://cementtiles.netlify.app",
     "feed_url": "https://cementtiles.netlify.app/feed.json",
     "user_comment": "",
-    "icon": "https://cementtiles.netlify.app/media/website/logo-cts1.png",
     "author": {
         "name": "CTS"
     },
